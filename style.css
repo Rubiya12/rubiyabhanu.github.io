@@ -1,0 +1,302 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.main{    
+    background-color: white;
+    padding:5px 38px;
+}
+
+.colmar{
+    color: black;
+    font-weight: 500;
+    font-size: 32px;
+    padding-top: 15px;
+}
+
+.academy{
+    color:grey;
+    font-weight: 500;
+    font-size: 32px;
+    padding-top:15px;
+}
+#n {
+    color:black;
+    font-size: 22px;
+    font-weight:500;
+}
+
+.banner{
+    background-color: #D5D7D8;
+    padding: 32px 47px;
+}
+.image{
+    float: left;
+    margin-right: 24px;
+}     
+.para1{
+    padding-top:0px;
+    font-weight: 900;
+    font-size: 60px;
+}
+.para2{
+    font-weight: 700;
+    font-size: 33px;
+}
+.learn{
+    padding-top:90px;
+margin-right:24px;
+}
+.bt{
+    padding: 8px 180px;
+    color:white;
+    background-color:black ;
+    font-size: 28px;
+
+}
+
+
+
+
+
+.info{
+    background-color: white;
+padding-left: 24px;
+}
+
+#a {
+    padding: 32px 36px;
+
+}
+
+.oimg{
+    float:left;
+    padding-left:16px;
+    padding-right:16px;
+    padding-bottom:16px;
+    padding-top:32px;
+}
+
+.oriant{
+    font-weight: 700;
+    font-size: 30px;
+
+}
+.oriant1 {
+    font-size: 20px;
+}
+
+.oriant2{
+    color: rgb(89, 167, 198);
+    font-size:20px;
+}
+
+.infor{
+    padding-top:67px;
+padding-left:60px;
+}
+
+.cimg {
+    float:left;
+    padding:16px;
+}
+
+.camp {
+    font-weight: 700;
+    font-size: 30px;
+}
+.camp2 {
+    font-size:20px;
+}
+.camp1 {
+    color: rgb(89, 167, 198);
+    font-size: 20px;
+}
+
+.infor1 {
+    padding-top:43px;
+    padding-left:16px;
+   }
+
+   .limg {
+    float:left;
+    padding:16px;
+   }
+
+   .lec {
+    font-weight: 700;
+    font-size: 30px;
+}
+.lec1 {
+    font-size: 20px;
+}
+
+.lec2 {
+    color: rgb(89, 167, 198);    
+   font-size:20px ;
+}
+.pic2 {
+    font-size: 21px;
+}
+.infor2 {
+    padding-top:32px;
+    padding-left:16px;
+
+}
+#d {
+    background-color: #D5D7D8;
+    
+}
+#c {
+    background-color:white;
+}
+#b {
+    padding-right:8px;
+    background-color:white ;
+}
+.pic1 {
+    padding-top:25px;
+    padding-bottom:8px;
+    font-weight:500;
+    font-size:48px ;
+}
+.pic3 {
+    padding-bottom: 5px;
+    padding-top:5px;
+    font-weight: 500;
+    font-size:20px ;
+}
+
+
+.part3 {
+    background-color: rgb(236, 234, 234);
+    padding-left:140px;
+    padding-right:140px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+.head {
+    text-align: center;
+    font-weight: 700;
+    font-size:50px;
+}
+#z {
+    padding-top:32px;
+    padding-bottom: 32px;
+    padding-right:32px;
+    padding-left:32px
+}
+.card-title {
+    padding-top:16px;
+    padding-left:16px;
+    font-size: 35px;
+    font-weight: 500;
+
+}
+.card1 {
+    padding-top:8px;
+    padding-bottom:5px;
+    padding-left:16px;
+    font-size: 22px;
+}
+.card-text {
+    padding-bottom: 38px;
+    padding-left:16px;
+    font-size:20px;
+
+}
+.card-text1 {
+    padding-left:16px;
+    padding-bottom: 0px;
+    font-size:20px;
+
+}
+
+.part4 {
+    padding:32px 24px;
+}
+.part4 #j{
+    padding-top:1px;
+    height:400px;
+
+}
+.part4head {
+    text-align: center;
+    font-weight: 700;
+    font-size:50px;
+
+}
+.vide {
+    padding-top:2px;
+    font-weight:500;
+}
+.timg1 {
+    float:left;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top:28px;
+    padding-bottom:16px;
+
+}
+.timg2  {
+    float:left;
+    padding:16px;
+}
+.the {
+    padding-top:47px;
+    padding-left:80px;
+    font-weight: 700;
+    font-size: 27px;
+
+}
+.thes {
+font-size: 18px;
+
+
+}
+.thes2 {
+font-size: 18px;
+}
+#t {
+    background-color:white;
+
+}
+.thes1 {
+    padding-top:70px;
+    padding-left:80px;
+    font-weight: 700;
+    font-size: 27px;
+}
+.vid {
+    padding-top:24px;
+    padding-bottom:8px;
+    font-weight:500;
+    font-size:40px ;
+}
+.vid1 {
+    font-size: 22px;
+}
+
+.part5 {
+    padding-left: 24px;
+    border-top: 0.2px solid black;
+
+    }
+.foote {
+    font-size:21px;
+    padding-top:16px;
+    padding-bottom: 32px;
+    
+}
+.terms{
+    font-size:21px;
+    padding-top:16px;
+    padding-left: 950px;
+    
+}
+.privacy {
+    font-size:21px;
+    padding-top:16px;
+    padding-left: 15px;
+}
+
